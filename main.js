@@ -1,10 +1,12 @@
-// document.writeln(
-//     `
-//     <h1>
-//     <em>${prompt('Inserisci il tuo nome:', 'Federico')}${prompt('Inserisci il tuo cognome:', 'Casu')}${prompt('Inserisci il tuo colore preferito:', 'Giallo')}23</em>
-//     </h1>
-//     `
-// );
+/*
+document.writeln(
+    `
+    <h1>
+    <em>${prompt('Inserisci il tuo nome:', 'Federico')}${prompt('Inserisci il tuo cognome:', 'Casu')}${prompt('Inserisci il tuo colore preferito:', 'Giallo')}23</em>
+    </h1>
+    `
+);
+*/
 
 // alternative version 1
 // document.writeln("<h1><em>" + prompt('Inserisci il tuo nome:', 'Federico') + prompt('Inserisci il tuo cognome:', 'Casu') + prompt('Inserisci il tuo colore preferito:', 'Giallo') + 23 + "</em></h1>");
